@@ -28,6 +28,7 @@ Este é um projeto de **calculadora gráfica** desenvolvido em **Java**, utiliza
 ├── CalculadoraFuncoes.java    # Lógica de cálculo
 ├── Calculadora.form           # Arquivo de layout da interface (gerado pelo NetBeans)
 
+```
 ---
 
 ## Tecnologias Utilizadas
